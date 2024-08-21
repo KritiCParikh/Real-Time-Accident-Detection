@@ -18,7 +18,7 @@ This project focuses on developing and advancing a system for real-time monitori
 - **Project_Summary_And_Advancements.pdf**  
   This document provides a detailed summary of both the initial and advanced projects. It outlines key differences, improvements made, and the rationale behind these advancements. Additionally, it discusses the evolution of the project, highlighting how the system's accuracy and responsiveness were enhanced over time.
 
-- **Advanced_Project_Notebook_explorations.ipynb
+- Advanced_Project_Notebook_explorations.ipynb
   In this document, I've explored various metrics and quantifiable values of the model to assess its performance. Additionally, I've focused on feature engineering and data preparation to further enhance the model.
 
 
