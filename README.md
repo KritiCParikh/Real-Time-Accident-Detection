@@ -21,7 +21,6 @@ This project focuses on developing and advancing a system for real-time monitori
 - Advanced_Project_Notebook_explorations.ipynb
   In this document, I've explored various metrics and quantifiable values of the model to assess its performance. Additionally, I've focused on feature engineering and data preparation to further enhance the model.
 
-
 ## Project Evolution
 
 ### Initial Project
