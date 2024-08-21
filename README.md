@@ -18,6 +18,10 @@ This project focuses on developing and advancing a system for real-time monitori
 - **Project_Summary_And_Advancements.pdf**  
   This document provides a detailed summary of both the initial and advanced projects. It outlines key differences, improvements made, and the rationale behind these advancements. Additionally, it discusses the evolution of the project, highlighting how the system's accuracy and responsiveness were enhanced over time.
 
+- **Advanced_Project_Notebook_explorations.ipynb
+  In this document, I've explored various metrics and quantifiable values of the model to assess its performance. Additionally, I've focused on feature engineering and data preparation to further enhance the model.
+
+
 ## Project Evolution
 
 ### Initial Project
@@ -30,6 +34,10 @@ Building on the initial work, the advanced phase introduced several significant 
 - **Improved Data Processing**: Optimized algorithms to handle real-time data streams more accurately, enhancing accident detection capabilities.
 - **Real-Time Alerts Integration**: Leveraged services like **Twilio** to send real-time alerts via SMS, email, or phone calls when an accident is detected, greatly improving the system's responsiveness.
 - **Enhanced Alert Mechanism**: Refined the alerting mechanism to ensure immediate communication of critical situations to relevant stakeholders.
+
+### Accuracy Improvement
+
+The overall accuracy improved from 88% to 91%. This indicates that the model performs better overall in predicting both classes.
 
 Thank You. Let’s keep learning and growing together!
 
