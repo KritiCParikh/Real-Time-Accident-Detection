@@ -4,7 +4,7 @@
 
 This project focuses on developing and advancing a system for real-time monitoring and alerting of potential vehicle accidents. The repository is divided into two major phases:
 
-1. **Initial Project**: The foundational work on real-time vehicle data collection and basic alert mechanisms.
+1. **Initial Project**: The foundational work done during the internship at Electronics Corporation of India Limited (ECIL), which involved real-time vehicle data collection and basic alert mechanisms.
 2. **Advanced Project**: An enhanced version with advanced data processing, real-time alert integration, and further optimizations.
 
 ## Repository Structure
