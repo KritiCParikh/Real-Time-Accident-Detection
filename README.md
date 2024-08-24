@@ -34,7 +34,7 @@ Building on the initial work, the advanced phase introduced several significant 
 - **Real-Time Alerts Integration**: Leveraged services like **Twilio** to send real-time alerts via SMS, email, or phone calls when an accident is detected, greatly improving the system's responsiveness.
 - **Enhanced Alert Mechanism**: Refined the alerting mechanism to ensure immediate communication of critical situations to relevant stakeholders.
 
-### Accuracy Improvement and Success Stories
+### Accuracy Improvement and Success Story
 
 The overall accuracy improved from 88% to 91%. 
 
