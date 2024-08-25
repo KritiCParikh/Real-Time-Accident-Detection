@@ -7,6 +7,23 @@ This project focuses on developing and advancing a system for real-time monitori
 1. **Initial Project**: The foundational work done during the internship at Electronics Corporation of India Limited (ECIL), which involved real-time vehicle data collection and basic alert mechanisms.
 2. **Advanced Project**: An enhanced version with advanced data processing, real-time alert integration, and further optimizations.
 
+## Skills and Technologies
+
+* Python
+* Data Analysis: Utilizing pandas for data manipulation and analysis.
+* Data Visualization: Creating visualizations using matplotlib.
+* Machine Learning: Implementing classification models using scikit-learn (RandomForestClassifier).
+* Feature Engineering: Creating new features and selecting important ones for model improvement.
+* Data Preprocessing: Handling imbalanced datasets using techniques like SMOTE.
+* Model Evaluation: Using confusion matrices, precision, recall, and F1-score for model assessment.
+* Time Series Analysis
+* Statistical Analysis
+
+### Business Impact
+
+- Enhanced Safety: By detecting accidents in real-time, the system could potentially save lives and reduce the severity of injuries by enabling faster emergency response times.
+- Data-Driven Decision Making: The extensive data collection and analysis required for this project could help businesses make informed decisions about vehicle maintenance, driver performance, and overall operational efficiency.
+
 ## Repository Structure
 
 - **Initial_Project_Presentation.pdf**  
